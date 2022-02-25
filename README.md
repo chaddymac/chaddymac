@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chaddymac (Cha'Diamond Moody)
+- 👋🏾 Hi, I’m @chaddymac (Cha'Diamond Moody)
 
 <!---
 - 👀 I’m interested in IOT && AI
